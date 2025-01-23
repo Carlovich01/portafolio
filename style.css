@@ -65,4 +65,12 @@ body{
     color: #F6F6F6;
     font-family: "Montserrat", sans-serif;
     border: 2px solid #22D4FD;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.presentacion__enlaces__link:hover{
+    background-color: #272727;
+    cursor: pointer;
 }
